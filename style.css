@@ -50,12 +50,13 @@ p {margin: 0; padding: 1em; font-size: 14px;}
 
 .btn  {
   display: inline-block;
-  background:#333;
+  background:rgb(46, 145, 237);
   color: #fff;
   text-decoration: none;
   padding: 1em, 2em;
   border: 1px solid #666;
   margin: .5em 0;
+  opacity: .7;
 }
 
 .btn:hover {
